@@ -1,6 +1,6 @@
 {
   "name": "@unction/last",
-  "version": "1.26.0",
+  "version": "1.27.0",
   "description": "Returns the last item of an ordered list",
   "keywords": [
     "unction",
