@@ -1,22 +1,22 @@
 /* eslint-disable no-magic-numbers */
-import {test} from "tap"
+import {test} from "tap";
 
-import last from "./index"
+import last from "./index";
 
 test(({same, end}) => {
   same(
     last([1, 2, 3]),
     3
-  )
+  );
 
-  end()
-})
+  end();
+});
 
 test(({same, end}) => {
   same(
     last("abc"),
     "c"
-  )
+  );
 
-  end()
-})
+  end();
+});
