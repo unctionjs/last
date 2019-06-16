@@ -58,8 +58,7 @@
     "tap": "12.6.1"
   },
   "dependencies": {
-    "@unction/length": "10.5.0",
-    "core-js": "3.0.1"
+    "@unction/length": "10.5.0"
   },
   "files": [
     "index.js",
