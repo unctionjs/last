@@ -1,7 +1,7 @@
 /* eslint-disable no-magic-numbers */
 import {test} from "tap";
 
-import last from "./index";
+import last from "./";
 
 test(({same, end}) => {
   same(
