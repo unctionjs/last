@@ -64,6 +64,6 @@
     "typescript": "^4.0.2"
   },
   "dependencies": {
-    "@unction/length": "10.10.0"
+    "@unction/length": "^10.11.0"
   }
 }
