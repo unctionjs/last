@@ -4,7 +4,7 @@
 ![Stability][BADGE_STABILITY]
 ![Dependencies][BADGE_DEPENDENCY]
 
-> OrderedEnumerableType<A> => A
+> OrderedArray<A> | Set<A> | RecordType<unknown, A> | string => A
 
 Returns the last item of an ordered list.
 
